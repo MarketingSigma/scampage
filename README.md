@@ -1,6 +1,8 @@
 # scampage
 scampage for all social media and crypto wallets
 
+These Scampages Gets Username/Email and Passwords Only.
+
 ## Contact Now
 
 Contact Only for Serious Business, clowns Stay Away.
@@ -11,6 +13,8 @@ Contact Only for Serious Business, clowns Stay Away.
 ## Social Media and Crypto Scampages
 
 we have the scampages files that you can upload on your website panel or on a hosting server its upto you we provide scam pages as follows :
+
+These Scampages Gets Username/Email and Passwords Only.
 
 - Paypal
 - Twitter
